@@ -57,7 +57,6 @@ _______
 
 <details>
     <summary>Текст для вставки в файл README.md</summary>
-<div style="border: 1px solid red;">
             
 ## Список клиентов
 
@@ -70,7 +69,6 @@ _______
 
 Нас можно найти в [google.com](https://google.com/).
             
-</div>
 </details>
 
 4. Сделайте коммит с изменениями.
